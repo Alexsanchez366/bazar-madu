@@ -1,0 +1,70 @@
+#logo{
+    height: 100px;
+    width: 150px;
+    border-radius: 3px;
+    margin-top: 15px;
+    margin-right: 25px;
+}
+
+nav{
+    background-color:#162d4e;
+    height: 125px;
+}
+
+.nav-link{
+    margin-top: -75px;
+    background-color: antiquewhite !important;
+    color: #2d5b80 !important;
+    border-radius: 3px;
+    margin-left: 5px;
+    transition: background-color 0.3s ease;
+}
+.nav-link:hover {
+    color: #55e66d !important;
+}
+
+/* card */
+
+.principal{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
+}
+
+.card{
+    height: 390px !important;
+    width: 255px !important;
+    background-color: rgb(247, 210, 161) !important;
+    margin-top: 25px !important;
+   
+
+ 
+}
+
+.card-img-top{
+    height: 150x !important;
+    width: 250px  !important;
+}
+
+p{
+    font-family: cursive !important;
+    color: #162d4e !important;
+    font-weight: bold !important;
+}
+h4{
+    font-family: cursive !important;
+    color: #162d4e !important;
+    font-weight: bold !important;
+}
+
+
+
+
+
+
+
+body{
+    background-color: #143958 !important;
+}
